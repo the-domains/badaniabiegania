@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BadaniaBiegania]]></title>
+        <description><![CDATA[BadaniaBiegania]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 19 Jan 2016 10:24:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jak wybrać l-karnitynę?]]></title>
+            <description><![CDATA[<article><h1>Jak wybrać l-karnitynę?</h1><p>L-karnityna to bez wątpienia jeden z najczęściej poszukiwanych ostatnio preparatów. Popularność zawdzięcza szerokiemu działaniu, ale sławę zyskała dzięki swoim właściwościom, które ułatwiają budowanie odpowiedniej sylwetki i utrzymanie aktywnego trybu życia.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a68fb626-bdde-4b12-86b5-d346ffa8867b.jpg"></article>]]></description>
+            <link>undefinedjak-wybrac-l-karnityne/index.html</link>
+            <guid isPermaLink="false">1bdb9f62-d9a0-4dae-bfa8-cb768fe07e73</guid>
+            <pubDate>Tue, 19 Jan 2016 10:24:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
