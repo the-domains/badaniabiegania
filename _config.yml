@@ -1,7 +1,7 @@
 name: BadaniaBiegania
 favicon: null
 layout_spectrum: 0.4245745299849659
-typography_spectrum: 0.18015496782027185
+typography_spectrum: 0.83199
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.9127919219899923
+  brandStrength: 0.9375
   lightness: 0.2930827056989074
   saturation: 0.6242419991176575
   rhythmicContrast: 0.7655248306691647
